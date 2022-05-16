@@ -6,6 +6,7 @@ Review of linear algebra and probability theory essential for machine learning, 
 
 ## Team Members
 Daniel Mrachko
+
 Mian Arif Shams Adnan
 
 ## Project Overview
